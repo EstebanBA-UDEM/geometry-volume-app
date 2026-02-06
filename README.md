@@ -1,4 +1,3 @@
-# geometry-volume-app
 ## Descripcion de proyecto
 Este proyecto consiste en un repositorio con la capacidad de computar el volumen de varias figuras geometricas, mas especificamente los volumenes de un cubo, cilindro, cono y esfera. El proposito de la actividad es de mejorar el repositorio previo.
 ## Estructura del proyecto
