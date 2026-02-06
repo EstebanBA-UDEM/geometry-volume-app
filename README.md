@@ -9,6 +9,6 @@ Para correr los tests, o las pruebas para confirmar que todos los codigos funcio
 ## Dependencias
 Las dependencias para ejecutar este proyecto son:
 
--Python 
+-Python 3.10+
 
 -Librerias de requirements.exe
